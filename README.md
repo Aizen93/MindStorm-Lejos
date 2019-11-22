@@ -7,7 +7,7 @@ M1 informatique - Université Paris Diderot Paris 7
 Ce projet est un suiveur de ligne Lejos 0.9.1 NXT qui grace a un algorithme de balayage il arrive a suivre une ligne de couleur choisie au préalable.
 Notre robot est certe un peu lent, mais arrive a suivre une ligne aussi compliqué soit elle, que ce soit des courbes très serrés ou des formes géometrique, le robot s'adapte et essai de retrouver sont chemin en élargissant son ongle de rotation au fur et a mesure. 
 
-[![IMAGE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=Gu8s_aNBSBc](https://www.youtube.com/watch?v=Gu8s_aNBSBc) "Robocop")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Gu8s_aNBSBc "Robocop")
 
 ## Git Structure
 Notre git est divisé en 2 répertoire :
