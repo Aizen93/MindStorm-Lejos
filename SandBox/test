@@ -1,0 +1,9 @@
+
+function startRace()
+{
+    au debut 
+    the same speed for both motors. direct line
+    des que il detecte pas la couleur verte il stope et
+    il va tourer  gauche detecte si ya la couleur verte si oui avancer avec the same speed 
+    sinon tourner droite et detecte
+}
