@@ -42,7 +42,7 @@ nxj -r -o Core.nxj Core
 
 ## License
 
-This project is licensed under GPL3
+This project is licensed under MIT
 
 ## Acknowledgements
 
